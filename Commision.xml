@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">ICO</Data></Cell>
+			<Cell><Data ss:Type="String">Company</Data></Cell>
+			<Cell><Data ss:Type="String">Bill</Data></Cell>
+			<Cell><Data ss:Type="String">Product</Data></Cell>
+			<Cell><Data ss:Type="String">Agency_commission</Data></Cell>
+			<Cell><Data ss:Type="String">Broker_commission</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">ALLSTATE</Data></Cell>
+			<Cell><Data ss:Type="String">Allstate</Data></Cell>
+			<Cell><Data ss:Type="String">Direct</Data></Cell>
+			<Cell><Data ss:Type="String">Home</Data></Cell>
+			<Cell><Data ss:Type="Number">0.22</Data></Cell>
+			<Cell><Data ss:Type="Number">0.15</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GEICO</Data></Cell>
+			<Cell><Data ss:Type="String">Geico</Data></Cell>
+			<Cell><Data ss:Type="String">Direct</Data></Cell>
+			<Cell><Data ss:Type="String">Home</Data></Cell>
+			<Cell><Data ss:Type="Number">0.25</Data></Cell>
+			<Cell><Data ss:Type="Number">0.15</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">USLIDP</Data></Cell>
+			<Cell><Data ss:Type="String">USLI</Data></Cell>
+			<Cell><Data ss:Type="String">Direct</Data></Cell>
+			<Cell><Data ss:Type="String">Dwelling</Data></Cell>
+			<Cell><Data ss:Type="Number">0.18</Data></Cell>
+			<Cell><Data ss:Type="Number">0.15</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">USLIHO</Data></Cell>
+			<Cell><Data ss:Type="String">USLI</Data></Cell>
+			<Cell><Data ss:Type="String">Direct</Data></Cell>
+			<Cell><Data ss:Type="String">Home</Data></Cell>
+			<Cell><Data ss:Type="Number">0.20</Data></Cell>
+			<Cell><Data ss:Type="Number">0.15</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">UTICA</Data></Cell>
+			<Cell><Data ss:Type="String">Utica First</Data></Cell>
+			<Cell><Data ss:Type="String">Direct</Data></Cell>
+			<Cell><Data ss:Type="String">Home</Data></Cell>
+			<Cell><Data ss:Type="Number">0.15</Data></Cell>
+			<Cell><Data ss:Type="Number">0.10</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WRIGHT</Data></Cell>
+			<Cell><Data ss:Type="String">Wright</Data></Cell>
+			<Cell><Data ss:Type="String">Direct</Data></Cell>
+			<Cell><Data ss:Type="String">Flood</Data></Cell>
+			<Cell><Data ss:Type="Number">0.15</Data></Cell>
+			<Cell><Data ss:Type="Number">0.10</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>

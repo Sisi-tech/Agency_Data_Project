@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="6" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="7" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="8" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="10" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="11" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">ID</Data></Cell>
+			<Cell><Data ss:Type="String">First_name</Data></Cell>
+			<Cell><Data ss:Type="String">Middle_name</Data></Cell>
+			<Cell><Data ss:Type="String">Last_name</Data></Cell>
+			<Cell><Data ss:Type="String">Product</Data></Cell>
+			<Cell><Data ss:Type="String">Effective_date</Data></Cell>
+			<Cell><Data ss:Type="String">Expiration_date</Data></Cell>
+			<Cell><Data ss:Type="String">Policy_number</Data></Cell>
+			<Cell><Data ss:Type="String">Premium</Data></Cell>
+			<Cell><Data ss:Type="String">ICO</Data></Cell>
+			<Cell><Data ss:Type="String">Broker_name</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">CM017</Data></Cell>
+			<Cell><Data ss:Type="String">Chloe</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">Martin</Data></Cell>
+			<Cell><Data ss:Type="String">Dwelling</Data></Cell>
+			<Cell><Data ss:Type="String">2024-01-17</Data></Cell>
+			<Cell><Data ss:Type="String">2025-01-17</Data></Cell>
+			<Cell><Data ss:Type="String">DP 345555</Data></Cell>
+			<Cell><Data ss:Type="Number">2390</Data></Cell>
+			<Cell><Data ss:Type="String">USLIDP</Data></Cell>
+			<Cell><Data ss:Type="String">New York Insurance Company</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">CR011</Data></Cell>
+			<Cell><Data ss:Type="String">Camila</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">Rodriguez</Data></Cell>
+			<Cell><Data ss:Type="String">Home</Data></Cell>
+			<Cell><Data ss:Type="String">2024-01-20</Data></Cell>
+			<Cell><Data ss:Type="String">2025-01-20</Data></Cell>
+			<Cell><Data ss:Type="String">HO 234097</Data></Cell>
+			<Cell><Data ss:Type="Number">1290</Data></Cell>
+			<Cell><Data ss:Type="String">GEICO</Data></Cell>
+			<Cell><Data ss:Type="String">Kate Rhee</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">CM002</Data></Cell>
+			<Cell><Data ss:Type="String">Clara</Data></Cell>
+			<Cell><Data ss:Type="String">C</Data></Cell>
+			<Cell><Data ss:Type="String">Miller</Data></Cell>
+			<Cell><Data ss:Type="String">Home</Data></Cell>
+			<Cell><Data ss:Type="String">2024-02-10</Data></Cell>
+			<Cell><Data ss:Type="String">2025-02-10</Data></Cell>
+			<Cell><Data ss:Type="String">HO 234167</Data></Cell>
+			<Cell><Data ss:Type="Number">2300</Data></Cell>
+			<Cell><Data ss:Type="String">GEICO</Data></Cell>
+			<Cell><Data ss:Type="String">New York Insurance Company</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">EG010</Data></Cell>
+			<Cell><Data ss:Type="String">Elizabeth</Data></Cell>
+			<Cell><Data ss:Type="String">C</Data></Cell>
+			<Cell><Data ss:Type="String">Garcia</Data></Cell>
+			<Cell><Data ss:Type="String">Home</Data></Cell>
+			<Cell><Data ss:Type="String">2024-01-20</Data></Cell>
+			<Cell><Data ss:Type="String">2025-01-20</Data></Cell>
+			<Cell><Data ss:Type="String">HO 234267</Data></Cell>
+			<Cell><Data ss:Type="Number">1420</Data></Cell>
+			<Cell><Data ss:Type="String">USLIHO</Data></Cell>
+			<Cell><Data ss:Type="String">Kate Rhee</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LJ015</Data></Cell>
+			<Cell><Data ss:Type="String">Luna</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">Jones</Data></Cell>
+			<Cell><Data ss:Type="String">Flood</Data></Cell>
+			<Cell><Data ss:Type="String">2024-02-10</Data></Cell>
+			<Cell><Data ss:Type="String">2025-02-10</Data></Cell>
+			<Cell><Data ss:Type="String">HO 234517</Data></Cell>
+			<Cell><Data ss:Type="Number">4200</Data></Cell>
+			<Cell><Data ss:Type="String">WRIGHT</Data></Cell>
+			<Cell><Data ss:Type="String">Alan Cohen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">EJ004</Data></Cell>
+			<Cell><Data ss:Type="String">Eleanor</Data></Cell>
+			<Cell><Data ss:Type="String">K</Data></Cell>
+			<Cell><Data ss:Type="String">Jackson</Data></Cell>
+			<Cell><Data ss:Type="String">Home</Data></Cell>
+			<Cell><Data ss:Type="String">2024-03-10</Data></Cell>
+			<Cell><Data ss:Type="String">2025-03-10</Data></Cell>
+			<Cell><Data ss:Type="String">HO 234527</Data></Cell>
+			<Cell><Data ss:Type="Number">1600</Data></Cell>
+			<Cell><Data ss:Type="String">GEICO</Data></Cell>
+			<Cell><Data ss:Type="String">New York Insurance Company</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LJ014</Data></Cell>
+			<Cell><Data ss:Type="String">Lillian</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">Johnson</Data></Cell>
+			<Cell><Data ss:Type="String">Flood</Data></Cell>
+			<Cell><Data ss:Type="String">2024-01-17</Data></Cell>
+			<Cell><Data ss:Type="String">2025-01-17</Data></Cell>
+			<Cell><Data ss:Type="String">HO 234537</Data></Cell>
+			<Cell><Data ss:Type="Number">2100</Data></Cell>
+			<Cell><Data ss:Type="String">WRIGHT</Data></Cell>
+			<Cell><Data ss:Type="String">Alan Cohen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">JM019</Data></Cell>
+			<Cell><Data ss:Type="String">Jane</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">Moore</Data></Cell>
+			<Cell><Data ss:Type="String">Dwelling</Data></Cell>
+			<Cell><Data ss:Type="String">2024-01-13</Data></Cell>
+			<Cell><Data ss:Type="String">2025-01-13</Data></Cell>
+			<Cell><Data ss:Type="String">HO 234560</Data></Cell>
+			<Cell><Data ss:Type="Number">3108</Data></Cell>
+			<Cell><Data ss:Type="String">USLIDP</Data></Cell>
+			<Cell><Data ss:Type="String">Schulman Insurance Brokerage, LLC</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">JL021</Data></Cell>
+			<Cell><Data ss:Type="String">Jay</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">Lee</Data></Cell>
+			<Cell><Data ss:Type="String">Home</Data></Cell>
+			<Cell><Data ss:Type="String">2024-01-19</Data></Cell>
+			<Cell><Data ss:Type="String">2025-01-19</Data></Cell>
+			<Cell><Data ss:Type="String">HO 2345600</Data></Cell>
+			<Cell><Data ss:Type="Number">1900</Data></Cell>
+			<Cell><Data ss:Type="String">GEICO</Data></Cell>
+			<Cell><Data ss:Type="String">Insure NYC Brokerage Inc</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">AA001</Data></Cell>
+			<Cell><Data ss:Type="String">Abigail</Data></Cell>
+			<Cell><Data ss:Type="String">C</Data></Cell>
+			<Cell><Data ss:Type="String">Anderson</Data></Cell>
+			<Cell><Data ss:Type="String">Home</Data></Cell>
+			<Cell><Data ss:Type="String">2024-01-10</Data></Cell>
+			<Cell><Data ss:Type="String">2025-01-10</Data></Cell>
+			<Cell><Data ss:Type="String">HO 234567</Data></Cell>
+			<Cell><Data ss:Type="Number">1450</Data></Cell>
+			<Cell><Data ss:Type="String">USLIHO</Data></Cell>
+			<Cell><Data ss:Type="String">Jeff Waddle Ins Agency Inc</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">AS009</Data></Cell>
+			<Cell><Data ss:Type="String">Ava</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">Smith</Data></Cell>
+			<Cell><Data ss:Type="String">Home</Data></Cell>
+			<Cell><Data ss:Type="String">2024-01-12</Data></Cell>
+			<Cell><Data ss:Type="String">2025-01-12</Data></Cell>
+			<Cell><Data ss:Type="String">HO 234597</Data></Cell>
+			<Cell><Data ss:Type="Number">1100</Data></Cell>
+			<Cell><Data ss:Type="String">USLIHO</Data></Cell>
+			<Cell><Data ss:Type="String">General Liability Insurance NYC</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">JK020</Data></Cell>
+			<Cell><Data ss:Type="String">Jenny</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">Kim</Data></Cell>
+			<Cell><Data ss:Type="String">Home</Data></Cell>
+			<Cell><Data ss:Type="String">2024-01-12</Data></Cell>
+			<Cell><Data ss:Type="String">2025-01-12</Data></Cell>
+			<Cell><Data ss:Type="String">HO 234599</Data></Cell>
+			<Cell><Data ss:Type="Number">2208</Data></Cell>
+			<Cell><Data ss:Type="String">UTICA</Data></Cell>
+			<Cell><Data ss:Type="String">RSN Insurance Agency</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DM006</Data></Cell>
+			<Cell><Data ss:Type="String">Delilah</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">Moore</Data></Cell>
+			<Cell><Data ss:Type="String">Home</Data></Cell>
+			<Cell><Data ss:Type="String">2024-02-11</Data></Cell>
+			<Cell><Data ss:Type="String">2025-02-11</Data></Cell>
+			<Cell><Data ss:Type="String">HO 237567</Data></Cell>
+			<Cell><Data ss:Type="Number">1500</Data></Cell>
+			<Cell><Data ss:Type="String">ALLSTATE</Data></Cell>
+			<Cell><Data ss:Type="String">Kingsbrook Brokerage Services</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">JW007</Data></Cell>
+			<Cell><Data ss:Type="String">Josephine</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">Williams</Data></Cell>
+			<Cell><Data ss:Type="String">Home</Data></Cell>
+			<Cell><Data ss:Type="String">2024-01-11</Data></Cell>
+			<Cell><Data ss:Type="String">2025-01-11</Data></Cell>
+			<Cell><Data ss:Type="String">HO 284567</Data></Cell>
+			<Cell><Data ss:Type="Number">1200</Data></Cell>
+			<Cell><Data ss:Type="String">ALLSTATE</Data></Cell>
+			<Cell><Data ss:Type="String">Castle Rock Capacity Insurance Agency</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>

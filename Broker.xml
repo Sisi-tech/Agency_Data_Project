@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="6" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">Broker_name</Data></Cell>
+			<Cell><Data ss:Type="String">Phone</Data></Cell>
+			<Cell><Data ss:Type="String">Email</Data></Cell>
+			<Cell><Data ss:Type="String">Address</Data></Cell>
+			<Cell><Data ss:Type="String">City</Data></Cell>
+			<Cell><Data ss:Type="String">State</Data></Cell>
+			<Cell><Data ss:Type="String">Zip</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">Alan Cohen</Data></Cell>
+			<Cell><Data ss:Type="String">516-409-3384</Data></Cell>
+			<Cell><Data ss:Type="String">mail@gmail.com</Data></Cell>
+			<Cell><Data ss:Type="String">28 Liberty St 5th Flr</Data></Cell>
+			<Cell><Data ss:Type="String">New York</Data></Cell>
+			<Cell><Data ss:Type="String">NY</Data></Cell>
+			<Cell><Data ss:Type="Number">10005</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Castle Rock Capacity Insurance Agency</Data></Cell>
+			<Cell><Data ss:Type="String">212-360-2334</Data></Cell>
+			<Cell><Data ss:Type="String">Insurance@gmail.com</Data></Cell>
+			<Cell><Data ss:Type="String">90 Broad St # 1503</Data></Cell>
+			<Cell><Data ss:Type="String">New York</Data></Cell>
+			<Cell><Data ss:Type="String">NY</Data></Cell>
+			<Cell><Data ss:Type="Number">10004</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">General Liability Insurance NYC</Data></Cell>
+			<Cell><Data ss:Type="String">646-814-2290</Data></Cell>
+			<Cell><Data ss:Type="String">general@gmail.com</Data></Cell>
+			<Cell><Data ss:Type="String">890 1st Ave</Data></Cell>
+			<Cell><Data ss:Type="String">New York</Data></Cell>
+			<Cell><Data ss:Type="String">NY</Data></Cell>
+			<Cell><Data ss:Type="Number">10022</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Insure NYC Brokerage Inc</Data></Cell>
+			<Cell><Data ss:Type="String">212-799-7500</Data></Cell>
+			<Cell><Data ss:Type="String">InsureNYC@gmail.com</Data></Cell>
+			<Cell><Data ss:Type="String">33 West 60th Street 2nd fl</Data></Cell>
+			<Cell><Data ss:Type="String">Queens</Data></Cell>
+			<Cell><Data ss:Type="String">NY</Data></Cell>
+			<Cell><Data ss:Type="Number">10023</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jeff Waddle Ins Agency Inc</Data></Cell>
+			<Cell><Data ss:Type="String">212-533-2230</Data></Cell>
+			<Cell><Data ss:Type="String">info@hotmail.com</Data></Cell>
+			<Cell><Data ss:Type="String">31 W 8th St</Data></Cell>
+			<Cell><Data ss:Type="String">New York</Data></Cell>
+			<Cell><Data ss:Type="String">NY</Data></Cell>
+			<Cell><Data ss:Type="Number">10011</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Kate Rhee</Data></Cell>
+			<Cell><Data ss:Type="String">212-72502510</Data></Cell>
+			<Cell><Data ss:Type="String">info@gmail.com</Data></Cell>
+			<Cell><Data ss:Type="String">315 Fifth Avenue Suite 703B</Data></Cell>
+			<Cell><Data ss:Type="String">New York</Data></Cell>
+			<Cell><Data ss:Type="String">NY</Data></Cell>
+			<Cell><Data ss:Type="Number">10016</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Kingsbrook Brokerage Services</Data></Cell>
+			<Cell><Data ss:Type="String">212-227-5444</Data></Cell>
+			<Cell><Data ss:Type="String">kingsbrook@gmail.com</Data></Cell>
+			<Cell><Data ss:Type="String">32 Broadway</Data></Cell>
+			<Cell><Data ss:Type="String">New York</Data></Cell>
+			<Cell><Data ss:Type="String">NY</Data></Cell>
+			<Cell><Data ss:Type="Number">10004</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">M&T Insurance Agency Inc</Data></Cell>
+			<Cell><Data ss:Type="String">800-716-8314</Data></Cell>
+			<Cell><Data ss:Type="String">MT@gmail.com</Data></Cell>
+			<Cell><Data ss:Type="String">350 Park Ave</Data></Cell>
+			<Cell><Data ss:Type="String">New York</Data></Cell>
+			<Cell><Data ss:Type="String">NY</Data></Cell>
+			<Cell><Data ss:Type="Number">10022</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">New York Insurance Company</Data></Cell>
+			<Cell><Data ss:Type="String">718-550-8707</Data></Cell>
+			<Cell><Data ss:Type="String">nyins@gmail.com</Data></Cell>
+			<Cell><Data ss:Type="String">9114 59th Ave</Data></Cell>
+			<Cell><Data ss:Type="String">Elmhurst</Data></Cell>
+			<Cell><Data ss:Type="String">NY</Data></Cell>
+			<Cell><Data ss:Type="Number">11373</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">NY Insurance Brokerage Inc</Data></Cell>
+			<Cell><Data ss:Type="String">718-476-2025</Data></Cell>
+			<Cell><Data ss:Type="String">NYIns@gmail.com</Data></Cell>
+			<Cell><Data ss:Type="String">71-16 35th Ave</Data></Cell>
+			<Cell><Data ss:Type="String">Jackson Heights</Data></Cell>
+			<Cell><Data ss:Type="String">NY</Data></Cell>
+			<Cell><Data ss:Type="Number">11372</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RSN Insurance Agency</Data></Cell>
+			<Cell><Data ss:Type="String">212-904-1044</Data></Cell>
+			<Cell><Data ss:Type="String">RSNIns@gmail.com</Data></Cell>
+			<Cell><Data ss:Type="String">481 8th Ave</Data></Cell>
+			<Cell><Data ss:Type="String">New York</Data></Cell>
+			<Cell><Data ss:Type="String">NY</Data></Cell>
+			<Cell><Data ss:Type="Number">10001</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Schulman Insurance Brokerage, LLC</Data></Cell>
+			<Cell><Data ss:Type="String">516-632-5225</Data></Cell>
+			<Cell><Data ss:Type="String">info@schulman.mail</Data></Cell>
+			<Cell><Data ss:Type="String">825 E Gate Blvd, Ste 305</Data></Cell>
+			<Cell><Data ss:Type="String">Garden City</Data></Cell>
+			<Cell><Data ss:Type="String">NY</Data></Cell>
+			<Cell><Data ss:Type="Number">11530</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
